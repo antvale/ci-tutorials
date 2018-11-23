@@ -1,2 +1,2 @@
 # ci-tutorials
-Continuous Integration configurations and ways of working
+Continuous Integration ways of working, toolchain and settings
